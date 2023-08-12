@@ -1,0 +1,23 @@
+.main_content{
+    margin: 0%;
+    padding: 0%;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.body_section{
+    display: flex;
+    margin-top: 5px;
+}
+
+.left_side{
+    width: 15%;
+}
+
+.right_side{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 25px;
+}

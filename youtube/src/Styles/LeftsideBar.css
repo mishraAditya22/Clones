@@ -1,0 +1,16 @@
+.item_body{
+    display: flex;
+    align-items: center;
+    object-fit: contain;
+}
+
+.item_icon{
+    margin-right: 6px;
+}
+.item_body:hover{
+    background-color: rgb(241, 241, 241);
+}
+.item_body:hover>.item_icon{
+    color: red ;
+}
+
